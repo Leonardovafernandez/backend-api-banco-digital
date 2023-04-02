@@ -45,6 +45,6 @@ Esta aplicação conta com as seguintes funcionalidades são:
 - Rodar o comando 'npm i' para instalar as dependencias do projeto;
 - Rodar o comando 'npm run dev' para expor a aplicação na porta '3000'
 
-## 🔖 Referências
+## 🔖 Referencias
 
 Esse projeto foi feito durante o curso de Desenvolvimento de Software (DDS) da Cubos Academy.
